@@ -1,0 +1,12 @@
+body {
+    font-size: 16px;
+    font-family: monospace, Arial;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    border: 2px solid;
+    margin: 5px;
+}
+
